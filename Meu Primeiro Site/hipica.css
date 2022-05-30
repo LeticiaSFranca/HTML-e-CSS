@@ -1,0 +1,124 @@
+/*O nome do arquivo do css N�O importa*/
+
+table{ width: 100%;
+/* localização do texto */
+text-align: CENTER;
+font-size: 2.5em;
+/* Grossura da borda */ 
+border: 1cm;
+top: 30cm;
+}
+
+.logo{
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.img2{ 
+    padding: 5px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+
+.buttonHipica{
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+    border-radius: 5%;
+    margin-right: 3px;
+}
+
+#buttonContatos{
+    align-items: center;
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 31px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+    margin-bottom: 50px;
+    border-radius: 5%;
+}
+
+.buttons{
+    align-items: center;
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+.txtEmail{
+    margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.sugestao{
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    padding: 25px;
+    background-color: #9db0e0;
+}
+
+.servicos{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+
+.obs{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.img{
+text-align: right;
+}
+
+.img1{
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+
+.aviso{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    border-color: #000000;
+    background-color: #9db0e0;
+    padding: 20px;
+}

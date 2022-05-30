@@ -1,0 +1,81 @@
+/*O nome do arquivo do css N�O importa*/
+
+table{ width: 100%;
+/* localização do texto */
+text-align: CENTER;
+font-size: 2.5em;
+/* Grossura da borda */ 
+border: 2;
+}
+
+.logo{
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.valor{
+    color: #435174;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img2{ height: 300px;
+    width: 25%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    }
+
+.cabecalho{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 100px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    margin-right: 0px;
+}
+
+.buttonHipica{
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+    border-radius: 5%;
+    margin-left: 90px;
+}
+
+#buttonContatos{
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+    border-radius: 5%;
+    margin-left: 20px;
+    margin-right: 120px;
+    margin-top: 3px;
+}

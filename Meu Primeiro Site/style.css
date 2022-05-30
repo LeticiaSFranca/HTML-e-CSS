@@ -1,0 +1,138 @@
+/*O nome do arquivo do css N�O importa*/
+
+table{ width: 100%;
+/* localização do texto */
+text-align: CENTER;
+align: center;
+font-size: 2.5em;
+/* Grossura da borda */ 
+border: 2;
+top: 30cm;
+}
+
+.logo{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+}
+
+.img1{ height: 300px;
+width: 25%;
+}
+
+.img2{ height: 300px;
+    width: 25%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    }
+
+.cabecalho{
+    font-family: 'Pacifico', cursive;
+    text-align: right;
+    font-size: 60px;
+}
+
+.buttonHipica{
+    /* localização do texto */
+    text-align: center;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    /* cor do fundo */
+    background-color: #435174;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 50px
+    border-radius: 1%;
+}
+
+#buttonContatos{
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5%;
+    margin-top: 40px;
+    margin-left: 225px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.button2{
+    /* localização do texto */
+    text-align: center; 
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5%;
+}
+
+.bemvindo{
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;
+    /* tamanho da letra */
+    font-size: 50px;
+    /* cor da letra */
+    color: #435174;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#buttonHaras{
+    /* localização do texto */
+    text-align: center;
+    /* cor do fundo */
+    background-color: #435174;
+    /* cor da borda */
+    border-color: #435174;
+    /* cor da letra */
+    color: white;
+    /* tamanho da letra */
+    font-size: 30px;
+    /* fonte da letra */
+    font-family: 'Roboto', sans-serif;   
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 1%;
+}
